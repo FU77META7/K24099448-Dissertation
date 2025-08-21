@@ -2,7 +2,7 @@
 # README_goal1_goal2.md
 ## Fine-Grained QA Analysis — Goal 1 & Goal 2 (Implementation)
 
-This repo-free drop contains two standalone Python scripts that implement your dissertation’s **Goal 1** (sentence segmentation) and **Goal 2** (sentence-level semantic relevance scoring). They are designed to work directly with your uploaded dataset:
+This repo contains two standalone Python scripts that implement your dissertation’s **Goal 1** (sentence segmentation) and **Goal 2** (sentence-level semantic relevance scoring). They are designed to work directly with your uploaded dataset:
 
 - `reformatted_gpt_o1_responses_with_labels.json`
 
